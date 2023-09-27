@@ -1,0 +1,5 @@
+Script {
+
+ font: 120px
+
+}
